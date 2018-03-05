@@ -23,7 +23,8 @@ git commit -m "$message"
 ```
 ## Push your changes to the repo 
 
-```git push
+```
+git push
 ```
 ## Pull the changes made by your collaborator. 
 ```
