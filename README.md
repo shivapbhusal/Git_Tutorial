@@ -15,7 +15,7 @@ git status
 ```
 ## Add the files or folders you want to push to repo
 ```
-git add ./$file_name
+git add [. or $Filename ] 
 ```
 ## Make the local commit 
 ```
